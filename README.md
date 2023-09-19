@@ -18,7 +18,7 @@ Este repositório contém scripts para processar arquivos Excel e analisar banco
     python process_excel.py
     ```
 
-    Isso irá gerar dois bancos de dados SQLite (`test_db.sqlite` e `prod_db.sqlite`) e possivelmente dois arquivos Excel (`linhas_com_erros.xlsx` e `dados_corrigidos.xlsx`), dependendo dos dados.
+    Isso irá gerar dois bancos de dados SQLite (`test_db.sqlite` e `prod_db.sqlite`) e dois arquivos Excel (`linhas_com_erros.xlsx` e `dados_corrigidos.xlsx`).
 
 ### Análise de Banco de Dados
 
